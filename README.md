@@ -1,3 +1,4 @@
+Dashboard Link: https://app.powerbi.com/groups/me/reports/f5be7d70-e68c-414f-af81-ba627f1d36b2/ReportSection?experience=power-bi
 TechnoEdge Sales Analysis
 ![Sales Analysis](https://github.com/shubhamupadhyaygit/Techno-Edge-Month-Sales/assets/166925201/d1db2195-d5ae-461d-b9b3-17dd92f5199f)
 
